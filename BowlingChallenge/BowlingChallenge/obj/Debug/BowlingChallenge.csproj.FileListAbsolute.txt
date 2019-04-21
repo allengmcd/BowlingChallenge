@@ -1,0 +1,7 @@
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\bin\Debug\BowlingChallenge.exe.config
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\bin\Debug\BowlingChallenge.exe
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\bin\Debug\BowlingChallenge.pdb
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\obj\Debug\BowlingChallenge.csprojResolveAssemblyReference.cache
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\obj\Debug\BowlingChallenge.csproj.CoreCompileInputs.cache
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\obj\Debug\BowlingChallenge.exe
+E:\Programming Challenges\BowlingChallenge\BowlingChallenge\obj\Debug\BowlingChallenge.pdb
